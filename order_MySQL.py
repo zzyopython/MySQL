@@ -265,6 +265,8 @@ import pymysql
                 select * from student where isDelect=0 order by age;
         
         ∽· 分页
+            格式:
+            示例:
         
         ∽·
 
